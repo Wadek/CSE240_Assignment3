@@ -1,0 +1,89 @@
+Please enter two integers, which must be greater than 3 and less than maxrow and maxcolomn, respectively
+
+XXXXXXXXXXXXXXX
+X  XX        XX
+X       XX X  X
+X X XX X    X X
+XX  S X       X
+X             X
+X           G X
+X             X
+X             X
+X             X
+X             X
+X             X
+X             X
+X             X
+XXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXX
+X!!XX!!!!!!!!XX
+X"""""""XX"X""X
+X#X#XX#X####X#X
+XX$$W$X$$$$$$$X
+X%%%%%%%%%%%%%X
+X&&&&&&&&&&&S&X
+X'''''''''''''X
+X(((((((((((((X
+X)))))))))))))X
+X*************X
+X+++++++++++++X
+X,,,,,,,,,,,,,X
+X-------------X
+XXXXXXXXXXXXXXX
+
+XXXXXSXXXXXXXXX
+X  XX        XX
+X       XX X  X
+X X XS X    X X
+XX  S X       X
+X             X
+X           G X
+X             X
+X             X
+X             X
+X             X
+X             X
+X             X
+X             X
+XXXXXSXXXXXXXXX
+Please enter two integers, which must be greater than 3 and less than maxrow and maxcolomn, respectively
+
+XXXXXXXX
+XXX    X
+XG     X
+X      X
+X S    X
+X      X
+X      X
+X      X
+X      X
+X      X
+X      X
+XXXXXXXX
+
+XXXXXXXX
+XXX!!!!X
+XH"""""X
+X######X
+X$U$$$$X
+X%%%%%%X
+X&&&&&&X
+X''''''X
+X((((((X
+X))))))X
+X******X
+XXXXXXXX
+
+XXXXXSXX
+XXX    X
+XG     X
+X      X
+X S    X
+X      X
+X      X
+X      X
+X      X
+X      X
+X      X
+XXXXXSXX
